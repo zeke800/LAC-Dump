@@ -4,4 +4,4 @@ LAC-Dump is an in-progress program for predicting, recieving, demodulating, and 
 - Code 23790 is now suspected to be NOAA-19
 - Code 67329 is also suspected to be NOAA-18
 - Schedule-parsing program is soon to be finished
-- Schedule parser might be canceled
+- Hmm... thinking about what frequency this could be be. It has to be somewhere around the L-band or S-band. 
